@@ -1,0 +1,51 @@
+
+
+.red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    cursor: pointer;
+}
+.green{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    cursor: pointer;
+}
+.blue{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: relative;
+    top: -80%;
+    left: 27%;
+    color: white;
+    text-align: center;
+}
+
+.model{
+    position: relative;
+    top: -110%;
+    left: 27%;
+    text-align: center;
+}
+
+.yellow{
+    height: 100px;
+    width: 200px;
+    background-color: yellow;
+}
+
+
+.flex-container{
+    display: flex;
+}
+
+.main-container{
+    height: 200px;
+    width: 200px;
+}
+
+.btn{
+    z-index: 100;
+}
